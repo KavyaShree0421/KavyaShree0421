@@ -4,7 +4,7 @@
 <img src="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 - 🌱 I’m currently learning **React**
-
+ 
 - 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
 
 - 💬 Ask me about **current trends in IT industry.**
