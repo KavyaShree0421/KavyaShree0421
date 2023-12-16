@@ -3,23 +3,22 @@
 <h3 align="center">A passionate Full-Stack developer and a tech enthusiast!😄</h3>
 <img src="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning- **React**
  
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 All of my projects are available at- portfolio link.
 
-- 💬 Ask me about **current trends in IT industry.**
+- 💬 Ask me about- **current trends in IT industry.**
 
-- 📫 How to reach me **akavyashree.3009@gmail.com**
+- 📫 How to reach me- **akavyashree.3009@gmail.com**
 
 - 📄 Know about my experiences- Software developer as well as a tester.
 
-- ⚡ Fun fact **I hold the esteemed title of 'Chief Couch Potato' in my family, but don't be fooled- my innovative and tech driven skills are unparalleled.**
+- ⚡ Fun fact- **I hold the esteemed title of 'Chief Couch Potato' in my family, but don't be fooled- my innovative and tech driven skills are unparalleled.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akula kavya shree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akula kavya shree" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akula kavya shree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akula kavya shree" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@181fa04390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@181fa04390" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akula-kavya-shree-237107210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://www.linkedin.com/in/akula-kavya-shree-237107210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" alt="akula kavya shree" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/181fa04390" target="blank"><img align="center" src="https://www.hackerrank.com/profile/181fa04390" alt="akula kavya shree" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
